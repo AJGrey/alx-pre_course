@@ -1,1 +1,1 @@
-../0x01-git/My first read me updated
+../0x01-git/My first readme updated
